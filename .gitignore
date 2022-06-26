@@ -1,5 +1,6 @@
 # Drop big data
 201908-citibike-tripdata.csv
+citibike_challenge_clean.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
