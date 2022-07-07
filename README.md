@@ -8,14 +8,17 @@ This analysis utilized Tableau, Jupyter Notebooks, and Python to clean data and 
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 
-**Viz 1 & 2 Trip Duration**
+**Trip Duration**
+![Trip Duration](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Checkout%20Time.png)
 
-These trips are incredibly short
+The overall trend is that trips are incredibly short - a vast majority of users are riding for less than an hour, peaking overall at about 10 minutes.
+The trend tracks between men & women, unknown trends a little flatter toward a slightly longer ride. Mostly, this indicates that men are the largest demographic.
 
-The trends track between men & women, unknown trends a little flatter toward a slightly longer ride. Mostly, this indicates that men are the largest demographic.
+When translating this to Des Moines, I would consider that any ride is likely going to look a little longer depending on the locations chosen. Midwest distance and Manhatten distance are definitely not the same, and customers might be willing to take longer rides for the right destinations.
 
 
 **Viz 3 & 4 & 5 Trips by Gender, Day, and Time**
+![Trips]()
 
 
 **Starting & Ending Points in NYC**
