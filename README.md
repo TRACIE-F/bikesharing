@@ -4,13 +4,6 @@ This analysis utilized Tableau, Jupyter Notebooks, and Python to clean data and 
 ## Link to Dashboard ##
 [Bikesharing Dashboard](https://public.tableau.com/views/bikesharinghw/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-
-Overview of the statistical analysis:
-
-
-
-The purpose of the analysis is well defined. (5 pt)
-
 ### Results ### 
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
