@@ -26,19 +26,21 @@ When translating this to Des Moines, I would consider that any ride is likely go
 While understanding the target demographic for the biking service is a helpful piece of analysis, I would consider the placement of the bikes even more crucial. Comparing New York City to Des Moines is a little challenge, but there are some over-arching key clues to leverage.
 
 ![NYC Start](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Top%20Starting%20Locations%20-%20Unmarked.png)
-Top 5: Pershing Square (Grand Central Terminal), E 17th & Broadway (Union Square Park), West St. & Chambers Street (Near schools, Rockefeller Park, and One World Obersrvatory), 12 Ave & W 40th St (Lincoln Tunnel), 8th Ave & W 31 St (Penn Station)
 
+Top 5 Starting: Pershing Square (Grand Central Terminal), E 17th & Broadway (Union Square Park), West St. & Chambers Street (Near schools, Rockefeller Park, and One World Obersrvatory), 12 Ave & W 40th St (Lincoln Tunnel), 8th Ave & W 31 St (Penn Station)
 
-![NYC End](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Top%20Ending%20Locations%20-%20Unmarked.png)
-The top Ending stations appear to align with the top starting locations, indicating these are simply popular stops.
+The Top 5 Ending stations appear to align with the top starting locations, indicating these are simply popular stops.
 
-On both maps, I circled notable hotspots where I had knowledge of what was in the general area. Many of these common spots are near parks, transit hubs (Grand Central Station), or near the Hudson. Usage got lighter starting at and going north from Central Park, and outside of Manhatten. The Financial Distrisct did look quite a bit lighter, indicating the more traditional office worker might be less likely to utilize the service. In conjunction with the data showing utilization times
+Many of these common spots are near parks, transit hubs (Grand Central Station), or near the Hudson. Usage got lighter starting at and going north from Central Park, and outside of Manhatten. The Financial Distrisct did look quite a bit lighter, but the trip timing indicates spikes during traditional commute times M-F 8 to 5. 
 
-Could biking be part of the culture at the Iowa State Fair? Partner with the butter booth and do "Bike to Butter"
 
 
 There is a description of the results for each visualization (7 pt)
 
 ###Summary###
+Overall, I believe that a bikesharing culture could work in Des Moines, utilizing lessons learned from the NYC bikesharing. Here are some of the questions I'd ask to move forward in Des Moines:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+  * Are colleges and univeristies part of the strategy? Based on the popular starting and ending points, there does appear to be a high volume of usage near NYU and a couple of high schools in Manhatten.
+  * ![]()
+  * ![]()
+  * Could biking be part of the culture at the Iowa State Fair? Partner with the butter booth and do some "Bike to Butter" promos?
