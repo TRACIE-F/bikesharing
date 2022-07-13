@@ -6,7 +6,7 @@ This analysis utilized Tableau, Jupyter Notebooks, and Python to clean data and 
 
 ### Results ### 
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
+The results of this analysis show clear patterns and some strong foundational knowledge as the client works to bring bikesharing to DesMoines.
 
 **Trip Duration**
 ![Trip Duration](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Checkout%20Time.png)
@@ -20,11 +20,11 @@ When translating this to Des Moines, I would consider that any ride is likely go
 **Trips by Gender, Day, and Time**
 The next set of visualizations demonstrate the concentration of trips by time of day and gender.
  * ![Trips1](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Trips%20wbh.png)
-  * The first visualization demonstrates a clear pattern - overall there's a lot of volume M-F during rush hours (7-10am and 4-6pm) 
+  * The first visualization demonstrates a clear pattern - overall there's a lot of volume M-F during rush hours (7-10am and 4-6pm) and strong upticks beginning Thursday through the weekend.
  * ![Trips2](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Trips%20by%20Gender%20wbh.png)
-  * This one does a thing.
+  * This visualization indicates no distinct patterns between male, female, and unknown riders. This indicates that the primary users are male.
  * ![Trips3](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Trips%20by%20Gender%20By%20Weekday.png)
-  * This one does something.
+  * Saturdays and Sundays see an uptick an anyonymous customers, but the bulk of the batch is subscribing males, all week. I do see a lighter weekend rate for the femal subscribers, especially on Sunday. 
 
 **Starting & Ending Points in NYC**
 
