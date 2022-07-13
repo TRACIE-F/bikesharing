@@ -2,7 +2,7 @@
 This analysis utilized Tableau, Jupyter Notebooks, and Python to clean data and create a Tableau story to determine how to successfully translate bikesharing data from New York City to a successful bikesharing launch in Des Moines, Iowa.
 
 ## Link to Dashboard ##
-[Bikesharing Dashboard](https://public.tableau.com/views/bikesharinghw/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Bikesharing Dashboard](https://public.tableau.com/views/bikesharinghw/BikesharingDash?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Results ### 
 
@@ -17,9 +17,14 @@ The trend tracks between men & women, unknown trends a little flatter toward a s
 When translating this to Des Moines, I would consider that any ride is likely going to look a little longer depending on the locations chosen. Midwest distance and Manhatten distance are definitely not the same, and customers might be willing to take longer rides for the right destinations.
 
 
-**Viz 3 & 4 & 5 Trips by Gender, Day, and Time**
-![Trips]()
-
+**Trips by Gender, Day, and Time**
+The next set of visualizations demonstrate the concentration of trips by time of day and gender.
+ * ![Trips1](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Trips%20wbh.png)
+  * The first visualization demonstrates a clear pattern - overall there's a lot of volume M-F during rush hours (7-10am and 4-6pm) 
+ * ![Trips2](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Trips%20by%20Gender%20wbh.png)
+  * This one does a thing.
+ * ![Trips3](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Trips%20by%20Gender%20By%20Weekday.png)
+  * This one does something.
 
 **Starting & Ending Points in NYC**
 
@@ -33,14 +38,14 @@ The Top 5 Ending stations appear to align with the top starting locations, indic
 
 Many of these common spots are near parks, transit hubs (Grand Central Station), or near the Hudson. Usage got lighter starting at and going north from Central Park, and outside of Manhatten. The Financial Distrisct did look quite a bit lighter, but the trip timing indicates spikes during traditional commute times M-F 8 to 5. 
 
-
-
-There is a description of the results for each visualization (7 pt)
-
 ###Summary###
 Overall, I believe that a bikesharing culture could work in Des Moines, utilizing lessons learned from the NYC bikesharing. Here are some of the questions I'd ask to move forward in Des Moines:
 
   * Are colleges and univeristies part of the strategy? Based on the popular starting and ending points, there does appear to be a high volume of usage near NYU and a couple of high schools in Manhatten.
-  * ![]()
-  * ![]()
+  * ![nycollege](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/NY%20College.png)
+  * ![dcollege](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/DesMoines%20College.png)
   * Could biking be part of the culture at the Iowa State Fair? Partner with the butter booth and do some "Bike to Butter" promos?
+  * Are there waterfront trails that lead from practical location to practical location?
+  * How pivotal is downtown DesMoines to the strategy?
+  
+At the end of the day, the clients working on this project are familiar with Des Moines and know the area well enough to ask these questions and more to run some successful tests.
