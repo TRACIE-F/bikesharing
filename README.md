@@ -9,7 +9,7 @@ This analysis utilized Tableau, Jupyter Notebooks, and Python to clean data and 
 The results of this analysis show clear patterns and some strong foundational knowledge as the client works to bring bikesharing to Des Moines.
 
 **Trip Duration**
-![Trip Duration](https://public.tableau.com/shared/GBY7Q3PYJ?:display_count=n&:origin=viz_share_link)
+![Trip Duration](https://github.com/TRACIE-F/bikesharing/blob/main/Resources/Trips%20wbh.png)
 
 The overall trend is that trips are incredibly short - a vast majority of users are riding for less than an hour, peaking overall at about 10 minutes.
 The trend tracks between men & women, unknown trends a little flatter toward a slightly longer ride. Mostly, this indicates that men are the largest demographic.
