@@ -4,7 +4,7 @@ This analysis utilized Tableau, Jupyter Notebooks, and Python to clean data and 
 ## Link to Tableu Story ##
 [Bikesharing Story](https://public.tableau.com/views/bikesharinghw/BikesharingNYCtoDesMoines?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### Results ### 
+## Results ##
 
 The results of this analysis show clear patterns and some strong foundational knowledge as the client works to bring bikesharing to Des Moines.
 
