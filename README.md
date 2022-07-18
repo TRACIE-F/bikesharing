@@ -1,8 +1,8 @@
 # Bikesharing #
 This analysis utilized Tableau, Jupyter Notebooks, and Python to clean data and create a Tableau story to determine how to successfully translate bikesharing data from New York City to a successful bikesharing launch in Des Moines, Iowa.
 
-## Link to Dashboard ##
-[Bikesharing Dashboard](https://public.tableau.com/views/bikesharinghw/BikesharingDash?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Link to Tableu Story ##
+[Bikesharing Story](https://public.tableau.com/views/bikesharinghw/BikesharingNYCtoDesMoines?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Results ### 
 
